@@ -149,9 +149,9 @@ export const skills = [
 export const experiences = [
     {
       title: "Data Storytelling with Three.js (WIP)",
-      company_name: "N/A",
-      icon: null, // Add your custom icon if available
-      iconBg: "#d3d3d3",
+      company_name: " ",
+      icon: react, // Add your custom icon if available
+      iconBg: "#EAFFFD",
       date: "Apr 2025 – Present",
       points: [
         "Transforming historical communication data into an interactive 3D experience using Three.js.",
