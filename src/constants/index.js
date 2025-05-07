@@ -215,6 +215,13 @@ export const socialLinks = [
 
 export const projects = [
     {
+        name: "3D Data Storytelling",
+        description: "An interactive 3D visualization of Benford's Law applied to historical Australian postal data, featuring animated charts and statistical insights.",
+        theme: "bg-blue-500",
+        iconUrl: react,
+        link: "/benford-law-research"
+    },
+    {
       iconUrl: null, // Replace with your custom icon
       theme: 'btn-back-purple',
       name: '3D Data Storytelling (WIP)',

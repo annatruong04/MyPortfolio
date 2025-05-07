@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
 import {Home, About, Projects, Contact} from './pages';
+import BenfordLawResearch from './pages/BenfordLawResearch';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
                 <Route path="/about" element={<About />} />
                 <Route path="/projects" element={<Projects />} />
                 <Route path="/contact" element={<Contact />} />
+                <Route path="/benford-law-research" element={<BenfordLawResearch />} />
             </Routes>
             <Footer />
         </Router>
