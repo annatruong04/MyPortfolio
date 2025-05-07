@@ -221,13 +221,13 @@ export const projects = [
         iconUrl: react,
         link: "/benford-law-research"
     },
-    {
-      iconUrl: null, // Replace with your custom icon
-      theme: 'btn-back-purple',
-      name: '3D Data Storytelling (WIP)',
-      description: 'A creative frontend experiment using Three.js to transform historical communication data into an interactive 3D narrative. This project visualizes findings from my summer research using scroll-based animations, immersive scenes, and smooth UI transitions to make statistics engaging and accessible.',
-      link: '/projects#data-viz',
-    },
+    // {
+    //   iconUrl: null, // Replace with your custom icon
+    //   theme: 'btn-back-purple',
+    //   name: '3D Data Storytelling (WIP)',
+    //   description: 'A creative frontend experiment using Three.js to transform historical communication data into an interactive 3D narrative. This project visualizes findings from my summer research using scroll-based animations, immersive scenes, and smooth UI transitions to make statistics engaging and accessible.',
+    //   link: 'https://thaotruong-portfolio.vercel.app/benford-law-research',
+    // },
     {
       iconUrl: flutter, // Replace with your Flutter/social app icon
       theme: 'btn-back-lightblue',
